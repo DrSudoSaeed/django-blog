@@ -3,6 +3,6 @@ django-blog-projects
 
 To run the first project, create and activate a virtualenv and run the 
 
-pip install -r requirements
+pip install -r requirements.txt
 
 command to install the required libraries and run the project on port 8000.
